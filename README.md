@@ -1,3 +1,17 @@
+let
+    GMS_STATIONS_DATA = #"GMS Stations Data",
+    GMS_LINES_DATA = #"GMS Lines data",
+    TIESTATIONS_DATA = #"Tiestations data",
+    JURISDICTION_BY_GRID = #"Jurisdiction By Grid",
+    TOMS_SUB_QUERY = #"TOMS Sub Query",
+    MAXIMO_SUB_QUERY = #"Maximo SubQuery"
+ 
+in
+    MAXIMO_SUB_QUERY
+
+
+
+
 # version-2-script-
 
  Image  
